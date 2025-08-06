@@ -1,0 +1,9 @@
+agno
+openai
+asana
+requests
+PyPDF2
+pdfplumber
+python-dotenv
+yfinance
+ 
